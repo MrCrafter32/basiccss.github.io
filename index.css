@@ -1,5 +1,5 @@
 body{
-    background-color: yellow;
+    background-color: #fdd11e;
     padding: 180px;
     color:white;
     font-size: xx-large;
@@ -9,4 +9,5 @@ body{
 .smiley{
     border: solid;
     border-radius: 100%;
+    border-color: red;
 }
